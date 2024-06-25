@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=stceum&show_icons=true&theme=transparent)
+
+You're the ![Visitor Count](https://profile-counter.glitch.me/stceum/count.svg) th visitor!
 <!--
 **stceum/stceum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
